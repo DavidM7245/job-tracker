@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Job Tracker App
 
 Job Tracker App is a React-based application designed to help users track and manage their job applications. With the app, users can add, edit, filter, and organize their job applications to stay on top of their job search.
@@ -49,23 +49,19 @@ Job Tracker App is a React-based application that helps users organize and monit
 
 Getting Started
 This project was bootstrapped with Create React App.
->>>>>>> fc25b7c92ef025e828bb1d91e4621a9c8cf26613
 
 Prerequisites
 To get started with this project, you'll need to have Node.js and npm installed. If you don't have them installed, you can download and install them from Node.js official website.
 
-<<<<<<< HEAD
 In the project directory, you can run the following commands:
 =======
 Available Scripts
 In the project directory, you can run:
->>>>>>> fc25b7c92ef025e828bb1d91e4621a9c8cf26613
 
 npm start
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in your browser.
 
-<<<<<<< HEAD
 Runs the app in development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
@@ -93,11 +89,9 @@ Your app is ready to be deployed!
 
 npm run eject
 Note: this is a one-way operation. Once you eject, you can't go back!
->>>>>>> fc25b7c92ef025e828bb1d91e4621a9c8cf26613
 
 If you aren't satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
 
-<<<<<<< HEAD
 **Note**: This is a one-way operation. Once you eject, you can't go back.
 =======
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except eject will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
@@ -108,11 +102,9 @@ Features
 Add new job applications with details like company name, position, and status.
 
 Edit and update job applications.
->>>>>>> fc25b7c92ef025e828bb1d91e4621a9c8cf26613
 
 Filter and sort job applications based on status or company name.
 
-<<<<<<< HEAD
 - [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started)
 - [React documentation](https://reactjs)
 =======
@@ -122,4 +114,3 @@ Learn More
 To learn more about React, check out the React documentation.
 
 To learn more about Create React App, visit the Create React App documentation.
->>>>>>> fc25b7c92ef025e828bb1d91e4621a9c8cf26613
